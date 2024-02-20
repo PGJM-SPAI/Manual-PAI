@@ -10,7 +10,7 @@
 ![Login](img/BotãoAvocação.png)
 *Figura 30 - Avocar pedido*. <br><br>
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">3</span> Por fim, será aberta na tela uma janela para justificar o motivo da avocação (férias, licença, remoção, aposentadoria do titular). Basta descrever o motivo e clicar em “Avocar”. </p>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">3</span> Por fim, será aberta na tela uma janela para justificar o motivo da avocação (férias, licença, remoção, aposentadoria do titular). Basta descrever o motivo e clicar em “Avocar” (Figura 31). </p>
 
 ![Login](img/BotãoDeAvocação.png)<br>
 *Figura 31 - Menu botão de avocação*. <br><br>
