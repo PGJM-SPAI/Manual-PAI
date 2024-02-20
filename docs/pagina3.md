@@ -61,16 +61,19 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 <li>Obter as informações de contatos das instituições financeiras e de seus funcionários responsáveis pelas transmissões de dados. </li>
 <li>Emitir ofício automático de cobrança aos bancos em caso de mora. </li>
 <li>Acessar os sete relatórios em PDF gerados automaticamente pelo sistema SIMBA. </li>
-<li style="text-align: justify;">Visualizar a lista de investigados e a situação de suas respectivas contas em relação às transmissões. São duas tabelas, a primeira agrupada por investigado e a segunda por banco (Figura 22): </li>
+<li style="text-align: justify;">Visualizar a lista de investigados e a situação de suas respectivas contas em relação às transmissões. São duas tabelas, a primeira agrupada por investigado (Figura 22) e a segunda por banco (Figura 23): </li>
 </ul>
 
-![Login](img/AbaBancos.png)
-*Figura 22 - Bancos*. <br>
+![Login](img/Investigados.png)
+*Figura 22 - Investigados*. <br>
 
-<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 23) </p>  
+![Login](img/AbaBancos.png)
+*Figura 23 - Bancos*. <br>
+
+<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 24) </p>  
 
 ![Login](img/ContasRelacionadas.png)
-*Figura 23 - Aba "Contas Relacionadas"*. <br>
+*Figura 24 - Aba "Contas Relacionadas"*. <br>
 
 As colunas da tabela contidas nessa janela possuem o seguinte significado: 
 <ul style="padding-left: 30px;">
@@ -99,22 +102,22 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 
 <p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo telefônico do caso, onde é possível realizar diversos andamentos e consultas, tais como:  </p>
 <ul>
-<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da decisão judicial (Figura 24) ou do ofício extrajudicial, conforme o caso.</li>
+<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da decisão judicial (Figura 25) ou do ofício extrajudicial, conforme o caso.</li>
 </ul>
 
 ![Login](img/CompletarOficio.png)<br>
-*Figura 24 - Complementar Ofício.* <br>
+*Figura 25 - Complementar Ofício.* <br>
 
 <ul>
 <li style="text-align: justify;">Baixar a minuta de afastamento de sigilo telefônico</li>
-<li style="text-align: justify;">Visualizar a lista de alvos, tipo de dados solicitados (interlocutores, ERB, conexão, etc.) e a situação das respectivas transmissões de dados das operadoras de telefonia (Figura 25).</li>
+<li style="text-align: justify;">Visualizar a lista de alvos, tipo de dados solicitados (interlocutores, ERB, conexão, etc.) e a situação das respectivas transmissões de dados das operadoras de telefonia (Figura 26).</li>
 </ul>
 
 ![Login](img/SolicitacoesOperadoras.png)<br>
-*Figura 25 - Status das solicitações enviadas para as operadoras.* <br>
+*Figura 26 - Status das solicitações enviadas para as operadoras.* <br>
 
 <ul>
-<li>Cadastrar alvos (Figura 26). Os tipos de requisição disponíveis são: </li> 
+<li>Cadastrar alvos (Figura 27). Os tipos de requisição disponíveis são: </li> 
 <ul style="padding-left: 20px;">
 <li style="text-align: justify; list-style-type: circle;"> Pessoa Física </li>
 <li style="text-align: justify; list-style-type: circle;"> Pessoa Jurídica </li>
@@ -128,7 +131,7 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 </ul></ul></ul>
 
 ![Login](img/CadastroDeAlvo.png)<br>
-*Figura 26 - Cadastrar Alvo.* <br>
+*Figura 27 - Cadastrar Alvo.* <br>
 <ul>
 <li>Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
 <li>Fazer download da "Certidão Sittel".</li>
@@ -138,10 +141,10 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 
 <strong>Sistema de Investigação Fiscal.</strong><br>
 
-<p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo fiscal do caso (Figura 27), onde é possível anexar os arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
+<p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo fiscal do caso (Figura 28), onde é possível anexar os arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
 
 ![Login](img/AbaSifisco.png)<br>
-*Figura 27 - Aba SIFISCO*.<br><br><br>
+*Figura 28 - Aba SIFISCO*.<br><br><br>
 
 
 
