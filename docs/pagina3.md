@@ -102,7 +102,7 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 
 <p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo telefônico do caso, onde é possível realizar diversos andamentos e consultas, tais como:  </p>
 <ul>
-<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da decisão judicial (Figura 25) ou do ofício extrajudicial, conforme o caso.</li>
+<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da ordem judicial (Figura 25) ou do ofício extrajudicial, conforme o caso.</li>
 </ul>
 
 ![Login](img/CompletarOficio.png)<br>
@@ -128,14 +128,12 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 <li style="text-align: justify; list-style-type: circle;"> Localização (a partir da Latitude e Longitude)</li>
 <li style="text-align: justify; list-style-type: circle;"> Endereço</li>
 <li style="text-align: justify; list-style-type: circle;"> IP/Porta</li>
+<li style="text-align: justify; list-style-type: circle;">Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
+<li style="text-align: justify; list-style-type: circle;">Fazer download da "Certidão Sittel".</li>
 </ul></ul></ul>
 
 ![Login](img/CadastroDeAlvo.png)<br>
 *Figura 27 - Cadastrar Alvo.* <br>
-<ul>
-<li>Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
-<li>Fazer download da "Certidão Sittel".</li>
-</ul>
 
 ### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIFISCO </span><br>
 
