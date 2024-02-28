@@ -128,12 +128,15 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 <li style="text-align: justify; list-style-type: circle;"> Localização (a partir da Latitude e Longitude)</li>
 <li style="text-align: justify; list-style-type: circle;"> Endereço</li>
 <li style="text-align: justify; list-style-type: circle;"> IP/Porta</li>
-<li style="text-align: justify; list-style-type: circle;">Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
-<li style="text-align: justify; list-style-type: circle;">Fazer download da "Certidão Sittel".</li>
 </ul></ul></ul>
 
 ![Login](img/CadastroDeAlvo.png)<br>
 *Figura 27 - Cadastrar Alvo.* <br>
+
+<ul>
+<li>Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
+<li>Fazer download da "Certidão Sittel".</li>
+</ul>
 
 ### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIFISCO </span><br>
 
