@@ -10,7 +10,7 @@ Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Ações em detalhes do pedido</span>
 
-![Login](img/AçõesDetalhesDoPedido.png)<br>
+![Login](img/AçõesDetalhesDoPedido.png)![Login](img/Reabrir.png)<br>
 *Figura 18 - Ações em detalhes do pedido*. <br>
 
 <ul>
@@ -18,12 +18,16 @@ Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> É recomendável que de tempos em tempos o membro verifique se há algum pedido feito à SPAI que já pode ser encerrado. Por exemplo, quando ainda não foi atendido, mas já houve a solução da lide, ou quando o caso foi arquivado ou ainda quando o juiz indeferiu um pedido de afastamento de sigilo.  </p></li>
 <li style="text-align: justify;">Editar pedido: Edite um pedido clicando no botão em amarelo “Editar pedido”. Descreva a motivação para a edição e em seguida realize as alterações necessárias. Por fim, clique em “Salvar”.</li>
 <li style="text-align: justify;">Certidão: Obtenha a certidão do pedido clicando no botão em azul “Certidão”. Através deste documento o demandante reporta ao juiz qual é o status atual do pedido.  </li>
+<li style="text-align: justify;">Reabrir: Reabra um pedido clicando no botão verde “Reabrir”. Selecione quais serviços deseja reabrir e descreva a motivação (Figura 19). Ressalte-se que a reabertura de pedido é possível para inserção de novas solicitações no tocante aos serviços anteriormente cadastrados. Para cadastramento de novos serviços que se refiram a pedido concluído, há que se abrir novo pedido e, além de se promover o cadastramento das novas demandas, deve-se fazer registro no campo “Pedido Anterior” a que PAI se vincula.</li>
 </ul>
+
+![Login](img/MotivoReabrir.png)<br>
+*Figura 19 - Reabertura de pedido*. <br>
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Abas do pedido </span>
 
 ![Login](img/ModalAbasDoPedido.png)
-*Figura 19 - Modal "Abas do pedido"*. <br><br>
+*Figura 20 - Modal "Abas do pedido"*. <br><br>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Histórico </span>
 
@@ -36,19 +40,19 @@ Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Anexos </span>
 <p style="text-align: justify;">Permite anexar arquivos no sistema. Funciona de maneira similar ao recurso “Anexar Arquivo’ da maioria das ferramentas de e-mail. O sistema suporta anexos de arquivos de até 25MB. </p>
     
-<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Após clicar no botão “Anexar” irá aparecer uma janela pop-up (Figura 20) na qual será possível localizar o arquivo em seu computador. Selecione o tipo de anexo (preenchimento obrigatório), a data de elaboração e insira uma observação (preenchimento não obrigatório) para o documento. Por fim, clique em “Enviar anexos”. </p>
+<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Após clicar no botão “Anexar” irá aparecer uma janela pop-up (Figura 21) na qual será possível localizar o arquivo em seu computador. Selecione o tipo de anexo (preenchimento obrigatório), a data de elaboração e insira uma observação (preenchimento não obrigatório) para o documento. Por fim, clique em “Enviar anexos”. </p>
 
 ![Login](img/MenuAnexos.png)
-*Figura 20 - Menu anexos* <br><br>
+*Figura 21 - Menu anexos* <br><br>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Autorizações </span>
 Autorizações: </strong>utilizado para que o membro titular do pedido possa autorizar outros usuários a visualizarem um pedido.<br>
 
-<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Dentro da aba “Autorizações”, em “Pesquise o Usuário”, digite o nome do membro ao qual você deseja conceder acesso ao pedido. Em seguida, clique no botão <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M448 128l-177.6 0c1 5.2 1.6 10.5 1.6 16l0 16 32 0 144 0c8.8 0 16-7.2 16-16s-7.2-16-16-16zM224 144c0-17.7-14.3-32-32-32c0 0 0 0 0 0l-24 0c-66.3 0-120 53.7-120 120l0 48c0 52.5 33.7 97.1 80.7 113.4c-.5-3.1-.7-6.2-.7-9.4c0-20 9.2-37.9 23.6-49.7c-4.9-9-7.6-19.4-7.6-30.3c0-15.1 5.3-29 14-40c-8.8-11-14-24.9-14-40l0-40c0-13.3 10.7-24 24-24s24 10.7 24 24l0 40c0 8.8 7.2 16 16 16s16-7.2 16-16l0-40 0-40zM192 64s0 0 0 0c18 0 34.6 6 48 16l208 0c35.3 0 64 28.7 64 64s-28.7 64-64 64l-82 0c1.3 5.1 2 10.5 2 16c0 25.3-14.7 47.2-36 57.6c2.6 7 4 14.5 4 22.4c0 20-9.2 37.9-23.6 49.7c4.9 9 7.6 19.4 7.6 30.3c0 35.3-28.7 64-64 64l-64 0-24 0C75.2 448 0 372.8 0 280l0-48C0 139.2 75.2 64 168 64l24 0zm64 336c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0-16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l64 0zm16-176c0 5.5-.7 10.9-2 16l2 0 32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-32 0 0 16zm-24 64l-40 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l48 0 16 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-24 0z" fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z" /></svg>  para confirmar a operação (Figura 21). </p>
+<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Dentro da aba “Autorizações”, em “Pesquise o Usuário”, digite o nome do membro ao qual você deseja conceder acesso ao pedido. Em seguida, clique no botão <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M448 128l-177.6 0c1 5.2 1.6 10.5 1.6 16l0 16 32 0 144 0c8.8 0 16-7.2 16-16s-7.2-16-16-16zM224 144c0-17.7-14.3-32-32-32c0 0 0 0 0 0l-24 0c-66.3 0-120 53.7-120 120l0 48c0 52.5 33.7 97.1 80.7 113.4c-.5-3.1-.7-6.2-.7-9.4c0-20 9.2-37.9 23.6-49.7c-4.9-9-7.6-19.4-7.6-30.3c0-15.1 5.3-29 14-40c-8.8-11-14-24.9-14-40l0-40c0-13.3 10.7-24 24-24s24 10.7 24 24l0 40c0 8.8 7.2 16 16 16s16-7.2 16-16l0-40 0-40zM192 64s0 0 0 0c18 0 34.6 6 48 16l208 0c35.3 0 64 28.7 64 64s-28.7 64-64 64l-82 0c1.3 5.1 2 10.5 2 16c0 25.3-14.7 47.2-36 57.6c2.6 7 4 14.5 4 22.4c0 20-9.2 37.9-23.6 49.7c4.9 9 7.6 19.4 7.6 30.3c0 35.3-28.7 64-64 64l-64 0-24 0C75.2 448 0 372.8 0 280l0-48C0 139.2 75.2 64 168 64l24 0zm64 336c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0-16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l64 0zm16-176c0 5.5-.7 10.9-2 16l2 0 32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-32 0 0 16zm-24 64l-40 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l48 0 16 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-24 0z" fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z" /></svg>  para confirmar a operação (Figura 22). </p>
 
 
 ![Login](img/MenuAutorizações.png)
-*Figura 21 - Menu autorizações*. <br><br>
+*Figura 22 - Menu autorizações*. <br><br>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIMBA </span>
 <strong>Sistema de Investigação de Movimentações Bancárias.</strong>
@@ -61,19 +65,19 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 <li>Obter as informações de contatos das instituições financeiras e de seus funcionários responsáveis pelas transmissões de dados. </li>
 <li>Emitir ofício automático de cobrança aos bancos em caso de mora. </li>
 <li>Acessar os sete relatórios em PDF gerados automaticamente pelo sistema SIMBA. </li>
-<li style="text-align: justify;">Visualizar a lista de investigados e a situação de suas respectivas contas em relação às transmissões. São duas tabelas, a primeira agrupada por investigado (Figura 22) e a segunda por banco (Figura 23): </li>
+<li style="text-align: justify;">Visualizar a lista de investigados e a situação de suas respectivas contas em relação às transmissões. São duas tabelas, a primeira agrupada por investigado (Figura 23) e a segunda por banco (Figura 24): </li>
 </ul>
 
 ![Login](img/Investigados.png)
-*Figura 22 - Investigados*. <br>
+*Figura 23 - Investigados*. <br>
 
 ![Login](img/AbaBancos.png)
-*Figura 23 - Bancos*. <br>
+*Figura 24 - Bancos*. <br>
 
-<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 24) </p>  
+<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 25) </p>  
 
 ![Login](img/ContasRelacionadas.png)
-*Figura 24 - Aba "Contas Relacionadas"*. <br>
+*Figura 25 - Aba "Contas Relacionadas"*. <br>
 
 As colunas da tabela contidas nessa janela possuem o seguinte significado: 
 <ul style="padding-left: 30px;">
@@ -102,22 +106,22 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 
 <p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo telefônico do caso, onde é possível realizar diversos andamentos e consultas, tais como:  </p>
 <ul>
-<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da ordem judicial (Figura 25) ou do ofício extrajudicial, conforme o caso.</li>
+<li style="text-align: justify;">Complementar a ordem de afastamento com anexação da ordem judicial (Figura 26) ou do ofício extrajudicial, conforme o caso.</li>
 </ul>
 
 ![Login](img/CompletarOficio.png)<br>
-*Figura 25 - Complementar Ofício.* <br>
+*Figura 26 - Complementar Ofício.* <br>
 
 <ul>
 <li style="text-align: justify;">Baixar a minuta de afastamento de sigilo telefônico</li>
-<li style="text-align: justify;">Visualizar a lista de alvos, tipo de dados solicitados (interlocutores, ERB, conexão, etc.) e a situação das respectivas transmissões de dados das operadoras de telefonia (Figura 26).</li>
+<li style="text-align: justify;">Visualizar a lista de alvos, tipo de dados solicitados (interlocutores, ERB, conexão, etc.) e a situação das respectivas transmissões de dados das operadoras de telefonia (Figura 27).</li>
 </ul>
 
 ![Login](img/SolicitacoesOperadoras.png)<br>
-*Figura 26 - Status das solicitações enviadas para as operadoras.* <br>
+*Figura 27 - Status das solicitações enviadas para as operadoras.* <br>
 
 <ul>
-<li>Cadastrar alvos (Figura 27). Os tipos de requisição disponíveis são: </li> 
+<li>Cadastrar alvos (Figura 28). Os tipos de requisição disponíveis são: </li> 
 <ul style="padding-left: 20px;">
 <li style="text-align: justify; list-style-type: circle;"> Pessoa Física </li>
 <li style="text-align: justify; list-style-type: circle;"> Pessoa Jurídica </li>
@@ -131,7 +135,7 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 </ul></ul></ul>
 
 ![Login](img/CadastroDeAlvo.png)<br>
-*Figura 27 - Cadastrar Alvo.* <br>
+*Figura 28 - Cadastrar Alvo.* <br>
 
 <ul>
 <li>Baixar arquivo zip com os dados em XML recebidos das operadoras.</li>
@@ -142,10 +146,10 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 
 <strong>Sistema de Investigação Fiscal.</strong><br>
 
-<p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo fiscal do caso (Figura 28), onde é possível anexar os arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
+<p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo fiscal do caso (Figura 29), onde é possível anexar os arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
 
 ![Login](img/AbaSifisco.png)<br>
-*Figura 28 - Aba SIFISCO*.<br><br><br>
+*Figura 29 - Aba SIFISCO*.<br><br><br>
 
 
 
