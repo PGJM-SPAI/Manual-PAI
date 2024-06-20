@@ -31,8 +31,9 @@
 *Figura 9 - Selecionar Assuntos e Serviços*. <br><br>
 
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Escolha o serviço de acordo com o assunto e as necessidades apontadas no campo específico “necessidades”. <br><br>
-Na formulação de um novo pedido, além do campo necessidades, há uma lista de assuntos e outra de serviços. Essa segregação é importante, pois os pedidos recebidos na SPAI passam por uma triagem eletrônica, feita pelo próprio sistema, que coloca cada pedido em filas diferentes de acordo com critérios bem definidos (serviço escolhido, assunto, grau de complexidade, etc). <br><br> Dessa forma, é de suma importância que o serviço, o assunto e as necessidades estejam em sintonia, para que o atendimento dos pedidos seja otimizado. Some-se a isso, o fato de que a combinação correta desses três itens permite delimitar e orientar a análise, auxiliando na definição do escopo do trabalho dos analistas.  </p><br>
+Na formulação de um novo pedido, além do campo necessidades, há uma lista de assuntos e outra de serviços. Essa segregação é importante, pois os pedidos recebidos na SPAI passam por uma triagem eletrônica, feita pelo próprio sistema, que coloca cada pedido em filas diferentes de acordo com critérios bem definidos (serviço escolhido, assunto, grau de complexidade, etc). <br><br> Dessa forma, é de suma importância que o serviço, o assunto e as necessidades estejam em sintonia, para que o atendimento dos pedidos seja otimizado. Some-se a isso, o fato de que a combinação correta desses três itens permite delimitar e orientar a análise, auxiliando na definição do escopo do trabalho dos analistas.  </p>
 
+## Investigados
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">4</span> Na página seguinte, será disponibilizado um formulário para preenchimento das informações conhecidas pelo demandante acerca dos investigados do pedido, conforme figura a seguir (Figura 10):  </p>
 
 ![Login](img/CadastroDeInvestigado.png)
@@ -53,8 +54,6 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
 <p style="text-align: justify;">Uma exigência do sistema para pedidos com o serviço de afastamento de sigilo é o <strong> download da minuta </strong>, passo este que é obrigatório para o prosseguimento do processo de cadastro por meio do botão “Baixar minuta”.</p>
 
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> <strong>Não copie e cole a minuta!</strong> A ação de copiar e colar, comumente utilizada pelos usuários, pode gerar grandes transtornos ao trâmite do afastamento de sigilo bancário via SIMBA. Por exemplo, se o número do caso for incorretamente informado, irá causar uma série de problemas, como: <br><br>
-
-
     - Os dados bancários transmitidos cairão em outro caso; <br>
     - Contamina a prova; <br>
     - Acaba por evidenciar dados de outro caso guardado por sigilo; <br>

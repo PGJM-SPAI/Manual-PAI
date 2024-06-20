@@ -1,6 +1,6 @@
 # Delegar pedido
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Clique no botão “Delegar”, localizado no menu lateral (Figura 33).</p><br>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Clique no botão “Delegar”, localizado no menu lateral (Figura 33).</p>
 
 ![Login](img/DelegarPedido.png)
 *Figura 33 - Menu lateral "Delegar"*. <br><br>
@@ -12,7 +12,12 @@
 ![Login](img/BotaoDeDelegacao.png)
 *Figura 34 - Delegar pedido.* <br><br>
 
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">3</span> Caso o sistema retorne a mensagem <span style="color: red;">"Atenção, usuário não encontrado."</span>, será necessário realizar um novo cadastro. Basta clicar no botão "Cadastrar" e prencher os campos nome e telefone/celular do novo usuário (Figura 35). Este será alocado na mesma lotação do membro que o cadastrou. Ao finalizar o cadastro, basta proseguir com a delegação. </p>
+
+![Login](img/CadastrarDelegação.png)<br>
+*Figura 35 - Cadastrar novo usuário a ser delegado.* <br><br>
+
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Diferença entre delegação e autorização</span>
 
 ![Login](img/DelegaçãoAutorização.png)<br>
-*Figura 35 - Delegação x Autorização*. <br><br>
+*Figura 36 - Delegação x Autorização*. <br><br>
