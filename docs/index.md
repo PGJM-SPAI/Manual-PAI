@@ -24,4 +24,4 @@ Além disso, a ferramenta se mostra indispensável na gestão de casos e na prod
     <li> Pesquisa de dados orçamentários e financeiros </li>
 </ul><br>
 
-<p style="text-align: justify;"> O <strong>PAI</strong> encontra-se atualmente em sua versão 1.0.1.4, a qual disponibiliza sete módulos para acesso: Administrador, Coordenador, Demandante, Analista, Quarentenista, Pesquisador e Servidor. Cada módulo foi desenvolvido sob medida para cada grupo de usuários. De acordo com o perfil acessado, as funcionalidades apresentadas poderão ser distintas. <strong>Este manual discorrerá sobre o Módulo Demandante do sistema PAI</strong>.</p><br><br>
+<p style="text-align: justify;"> O <strong>PAI</strong> encontra-se atualmente em sua versão 3.5.2, a qual disponibiliza sete módulos para acesso: Administrador, Coordenador, Demandante, Analista, Quarentenista, Pesquisador e Servidor. Cada módulo foi desenvolvido sob medida para cada grupo de usuários. De acordo com o perfil acessado, as funcionalidades apresentadas poderão ser distintas. <strong>Este manual discorrerá sobre o Módulo Demandante do sistema PAI</strong>.</p><br><br>

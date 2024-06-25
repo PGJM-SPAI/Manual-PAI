@@ -3,7 +3,7 @@
 <p style="text-align: justify;">Permite que o membro visualize todos os pedidos feitos até a data corrente. Inicialmente são mostrados apenas os pedidos em andamento, mas, caso o membro queira enxergar todos os pedidos já cadastrados, basta acionar o botão “Mostrar Pedidos Concluídos”, localizado no centro da página (Figura 17). </p>
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Detalhes do pedido </span>
-Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z"/></svg> apresentado na tela, conforme mostrado na figura a seguir: (Figura 17)
+Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z"/></svg>DETALHES apresentado na tela, conforme mostrado na figura a seguir: (Figura 17)
 
 ![Login](img/DetalhesDoPedido.jpeg)
 *Figura 17 - Acessar os detalhes dos pedidos*. <br><br>
@@ -59,8 +59,7 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 
 <p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo bancário do caso, onde é possível realizar diversos andamentos e consultas, tais como: </p> 
 <ul>
-<li style="text-align: justify;">Completar a ordem de afastamento com anexação da decisão judicial. </li>
-<li style="text-align: justify;">Anexação da decisão judicial relativa à extensão de quebra.</li>
+<li style="text-align: justify;">Complementar o serviço de afastamento bancário com anexação da decisão judicial. </li>
 <li style="text-align: justify;">Baixar a minuta de afastamento de sigilo bancário. </li>
 <li>Obter as informações de contatos das instituições financeiras e de seus funcionários responsáveis pelas transmissões de dados. </li>
 <li>Emitir ofício automático de cobrança aos bancos em caso de mora. </li>
