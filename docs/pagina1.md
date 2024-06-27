@@ -7,7 +7,6 @@
 ![Login](img/Login.png)<br>
 *Figura 1 - Página de login com destaque ao link para obter senha de primeiro acesso.* <br><br>
 
-
 ![Login](img/RedefinirSenha.png)<br>
 *Figura 2 - Enviar pedido para solicitar senha temporária*. <br><br>
 
