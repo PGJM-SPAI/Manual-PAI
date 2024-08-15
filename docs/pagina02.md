@@ -37,6 +37,86 @@ Por fim, o campo "Origem" do pedido é automaticamente selecionado pelo PAI, de 
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Escolha o serviço de acordo com o assunto e as necessidades apontadas no campo específico “necessidades”. <br><br>
 Na formulação de um novo pedido, além do campo necessidades, há uma lista de assuntos e outra de serviços. Essa segregação é importante, pois os pedidos recebidos na SPAI passam por uma triagem eletrônica, feita pelo próprio sistema, que coloca cada pedido em filas diferentes de acordo com critérios bem definidos (serviço escolhido, assunto, grau de complexidade, etc). <br><br> Dessa forma, é de suma importância que o serviço, o assunto e as necessidades estejam em sintonia, para que o atendimento dos pedidos seja otimizado. Some-se a isso, o fato de que a combinação correta desses três itens permite delimitar e orientar a análise, auxiliando na definição do escopo do trabalho dos analistas. </p>
 
+<p style="text-align: justify; font-size: 20px;"><strong>Serviços</strong></p>
+
+![Login](img/ServiçoDestacado.png)
+*Figura 9 - Serviços*. <br><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Afastamento de Sigilo Bancário - SIMBA </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong> cadastramento de caso para afastamento de sigilo bancário, bem como, recepção, higienização e disponibilização dos dados transmitidos pelo Banco Central e pelas instituições financeiras ao demandante. <br><br> Esta opção acionada isoladamente NÃO gera análise de dados bancários, mas tão somente a disponibilização dos dados ao solicitante, após tratamento. <br><br><strong>Unidade prestadora:</strong> Seção de Tratamento de Dados Sigilosos. <br><br><strong>Entregas: </strong>Resumo do trabalho de tratamento de dados bancários do caso. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Pendências:</i> para cobranças aos bancos em mora. </li>
+<li style="text-align: justify"><i>Relatório de Identificação de Operações Bancárias:</i> para cobranças de identificação dos depositantes e beneficiários de operações financeiras. </li>
+<li style="text-align: justify"><i>Relatório de Respostas às Diligências:</i> para atestar quais diligências foram cumpridas pelas instituições financeiras. </li>
+<li style="text-align: justify"><i>Relatório de Validação de Dados:</i> para atestar que os dados foram transmitidos e tratados de acordo com parâmetros mínimos de aceitabilidade. </li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Análise de Dados Bancários </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong> são realizadas análises de dados bancários em relação a pessoas físicas e/ou jurídicas investigadas, observados os limites da decisão judicial autorizativa, assim como as necessidades relatadas no PAI, sobretudo em relação à hipótese investigativa formulada pelo membro solicitante, no intuito de identificar indícios ou provas que subsidiem a investigação. <br><br><strong> Unidade prestadora:</strong> Divisão de Análise <br><br><strong>Entregas: </strong>A análise de dados bancários descreve o volume, a compatibilidade e a natureza das transações financeiras dos investigados, buscando relacionar os principais envolvidos, inclusive identificando graus de relacionamento com integrantes das FFAA e/ou com empresas investigadas com quem o Poder Público contrate. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Análise - RA</i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Análise de Dados Fiscais </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong> são realizadas análises de dados fiscais em relação a pessoas investigadas, observados os limites da decisão judicial autorizativa, assim como as necessidades relatadas no PAI, sobretudo em relação à hipótese investigativa formulada pelo Membro solicitante, no intuito de encontrar indícios ou provas que subsidiem a investigação. A ênfase reside na verificação da evolução patrimonial dos investigados e sua compatibilidade com os rendimentos/proventos recebidos e/ou declarados. <br><br><strong>Unidade prestadora:</strong> Divisão de Análise <br><br><strong>Entregas: </strong>Análise da evolução patrimonial dos investigados no período delimitado pelo afastamento de sigilo. Análise de compatibilidade dessa evolução em relação aos rendimentos declarados. Na hipótese de também haver análise dos dados bancários, faz-se o cotejo entre os dados bancários e os dados fiscais declarados ou apurados pela RFB. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Análise - RA </i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Afastamento de Sigilo Telefônico - SITTEL </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  cadastramento de caso para afastamento de sigilo telefônico, bem como, recepção, higienização e disponibilização dos dados transmitidos pelas operadoras de telefonia para realização de análise.  <br><br> A seleção desse serviço aciona automaticamente o serviço de Análise de Dados Telefônicos. <br><br> Cabe ressaltar que não se trata de escuta telefônica ou de leitura de mensagens, ações estas que dependem também da autorização judicial para que autoridade policial efetue interceptações, tampouco de descriptografia de aparelhos telefônicos para extração de imagens, dados, etc – atribuições típicas de polícia judiciária, que requer tecnologia e expertise apropriadas. <br><br><strong>Unidade prestadora:</strong> Seção de Tratamento de Dados Sigilosos <br><br><strong>Entregas: </strong>Resumo do trabalho de tratamento dos dados telefônicos do caso. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Informação de Sigilo Telefônico:</i> atesta a situação do caso no fluxo de afastamento de sigilo telefônico. </li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Análise de Dados Telefônicos </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  são realizadas análises dos dados telefônicos em relação aos alvos da investigação (CPF, CNPJ, terminal, IMEI, etc), observados os limites da decisão judicial autorizativa, assim como as necessidades relatadas no PAI, sobretudo em relação à hipótese investigativa formulada pelo membro solicitante, no intuito de identificar indícios ou provas que subsidiem a investigação por meio da obtenção de dados cadastrais de alvos, relacionando-se ligações, mensagens e vínculos entre investigados ou envolvidos, evidenciando o volume de contatos realizados em momentos específicos que sejam relevantes para a investigação, bem como, a colocação de alvos em determinada área, por meio de recursos de geolocalização. <br><br><strong>Unidade prestadora:</strong> Divisão de Análise <br><br><strong>Entregas: </strong>A análise de dados telefônicos descreve dados cadastrais, habitualidade, constância, recorrência e duração de contatos telefônicos através de ligações ou mensagens de textos, entre os números investigados, bem como, a geolocalização de alvos em determinado momento. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Análise - RA </i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Análise de Processos Licitatórios </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  São analisadas as informações constantes na documentação enviada ou obtidas em fontes abertas e sistemas corporativos disponíveis sobre determinados militares ou empresas contratadas pela Administração Pública Federal, no intuito de identificar ilicitudes existentes e potenciais em procedimentos de contratação pública realizadas por unidades militares. <br><br> Não se trata de análise jurídica, mas descritiva acerca do processo licitatório, evidenciando fatos atípicos ou suspeitos. <br><br><strong>Unidade prestadora:</strong>  Divisão de Combate à Corrupção. <br><br><strong>Entregas: </strong> Análise do processo licitatório, a partir de consultas aos sistemas do Governo Federal disponíveis para consulta, realizando abordagem quanto a: <br>
+<ul>
+<li style="text-align: justify"><i> Regularidade do fluxo licitatório; <i></li>
+<li style="text-align: justify"><i> Análise de preços praticados; <i></li>
+<li style="text-align: justify"><i> Apresentação do volume de valores empenhados, liquidados e pagos; <i></li>
+<li style="text-align: justify"><i> Identificação das licitantes vencedoras;  <i></li>
+<li style="text-align: justify"><i> Verificação da inabilitação de propostas mais vantajosas;  <i></li>
+<li style="text-align: justify"><i> Apontamento de indícios de favorecimento de licitantes. <i></li>
+</ul><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Análise. </i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Pesquisa de Dados Orçamentários e Financeiros </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  São informados pontualmente dados acerca de quesitos formulados pelo demandante, tais como: “Com quais unidades militares a empresa X contratou no ano de 2018?”, “Verificar se empresa X contratou com a UASG Y no período de 2016 a 2018”, “Qual o montante homologado, empenhado, liquidado e pago pela unidade militar Y à empresa X no ano de 2020?”. <br><br><strong>Unidade prestadora:</strong>  Divisão de Combate à Corrupção. <br><br><strong>Entregas: </strong>Identifica os dados solicitados. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Pesquisa. </i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Pesquisa de Processos Licitatórios </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  São informados pontualmente dados acerca de quesitos formulados pelo demandante, tais como: “A empresa X concorreu em pregões da unidade militar Y no ano de 2022?”, “Verificar se empresa X venceu itens de licitações da UASG Y no período de 2016 a 2018”?”. <br><br><strong>Unidade prestadora:</strong>  Divisão de Combate à Corrupção. <br><br><strong>Entregas: </strong>Identifica os dados solicitados. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Pesquisa. </i></li>
+</ul>
+</p><br>
+
+#### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Pesquisa de Dados Cadastrais </span>
+<p style="text-align: justify;"><strong>Descrição do serviço: </strong>  são realizadas pesquisas em relação a pessoas físicas e/ou jurídica investigadas, em bases de dados abertas e fechadas, firmadas por meio de convênio, observadas as necessidades relatadas no PAI, sobretudo em relação à hipótese investigativa formulada pelo Membro solicitante, no intuito de encontrar indícios ou provas que subsidiem a investigação. <br><br><strong>Unidade prestadora:</strong>  Divisão de Pesquisa. <br><br><strong>Entregas: </strong>Qualifica a pessoa física e/ou jurídica investigada. <br><br> No caso de Pessoa Física, são apontados os dados encontrados nas bases: endereço, telefone, filiação, data de nascimento, título de eleitor, foto (se disponível), vínculo empregatício e societário. Em caso de necessidade, são encaminhados endereços de genitores e irmãos da pessoa física pesquisada. <br><br> Além disso, quando necessário, identificam-se fontes de pesquisa de óbito, indicando data, quando for o caso. <br><br> No caso de Pessoa Jurídica, informa-se o endereço da empresa, nome fantasia, data de constituição, quadro societário e, quando for o caso, seu histórico, entre outras informações. <br><br> Se necessário é elaborado diagrama de vínculos para melhor visualização dos resultados encontrados. <br><br><strong>Produto:</strong> 
+<ul>
+<li style="text-align: justify"><i>Relatório de Pesquisa. </i></li>
+</ul>
+</p>
+
+
 ## Investigados
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">4</span> Na página seguinte, será disponibilizado um formulário para preenchimento das informações conhecidas pelo demandante acerca do(s) investigado(s) do pedido. Caso o pedido solicite <strong>serviços de Divisão de Análise</strong>, o formulário solicitará o preenchimento dos campos CPF/CNPJ, Nome, Período Inicial e Período Final, conforme ilustrado a seguir:</p>
 
