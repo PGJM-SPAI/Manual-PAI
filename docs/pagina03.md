@@ -188,7 +188,14 @@ As colunas da tabela contidas nessa janela possuem o seguinte significado:
 <p style="text-align: justify;">Aba de acompanhamento do afastamento de sigilo fiscal do caso (Figura 38), onde é possível anexar os arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
 
 ![Login](img/AbaSifisco.png)<br>
-*Figura 38 - Aba SIFISCO*.<br><br><br>
+*Figura 38 - Aba SIFISCO*.<br><br>
+
+<p style="text-align: justify;">Caso deseje adicionar arquivos extras após uma primeira inserção, selecione "Complementar dados fiscais" (Figura 39) e anexe. O tamanho máximo dos arquivos deve ser de 25MB. Também é possível baixar arquivo ZIP de todos os dados fiscais do pedido. Para isso, basta clicar em "Baixar dados fiscais" (Figura 39).</p>
+
+![Login](img/Complementar.png)<br>
+*Figura 39 - Complementar dados fiscais*.<br><br><br>
+
+<p style="text-align: justify;"> </p>
 
 
 
