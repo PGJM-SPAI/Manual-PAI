@@ -82,8 +82,16 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 *Figura 29 - Baixar minuta*. <br><br>
 
 <ul>
+<li>Baixar os dados brutos recebidos via sistema transmissão bancária - SIMBA (Quebras e CCS) (Figura 57). </li>
+</ul>
+
+![Login](img/BaixarQuebrasECcs.png)<br>
+*Figura 57 - Baixar dados brutos. <br><br>
+
+<ul>
 <li>Obter as informações de contatos das instituições financeiras e de seus funcionários responsáveis pelas transmissões de dados (Figuras 30). </li>
 </ul>
+
 
 ![Login](img/ContatosInstituições.png)<br>
 *Figura 30 - Contatos das instituições financeiras*. <br>
