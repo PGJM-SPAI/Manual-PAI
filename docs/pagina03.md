@@ -86,7 +86,7 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 </ul>
 
 ![Login](img/BaixarQuebrasECcs.png)<br>
-*Figura 57 - Baixar dados brutos.<br><br>
+*Figura 57 - Baixar dados brutos.* <br><br>
 
 <ul>
 <li>Obter as informações de contatos das instituições financeiras e de seus funcionários responsáveis pelas transmissões de dados (Figuras 30). </li>
